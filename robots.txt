@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-dg4xj1.radarsatu88.shop/sitemap.xml
